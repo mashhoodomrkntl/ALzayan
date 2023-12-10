@@ -3085,7 +3085,7 @@ blockquote .author .desc {
 }
 /*header mobile*/
 .header-device-mobile {
-	padding: 25px 0;
+	padding: 30px 0;
 	display: none;
 	position: relative;
 }
@@ -3102,7 +3102,8 @@ blockquote .author .desc {
 	position: absolute;
 	top: 100%;
 	right: 0;
-	background-color: #fff;
+	background-color: #ffffff;
+	color: #ff0000;
 	padding: 15px;
 	left: 0;
 	z-index: 100;
@@ -6720,7 +6721,7 @@ ul.list-products {
 	margin-bottom: 20px;
 }
 .slider-item.style7 .slider-inner {
-	background-image: url(../images/slider-thumb4.jpg);
+	background-image: url(../images/imn\(4\).jpg);
 }
 .slider-item.style7 .slider-inner .slider-infor {
 	padding-top: 176px;
@@ -6729,7 +6730,7 @@ ul.list-products {
 	padding-right: 400px;
 }
 .slider-item.style8 .slider-inner {
-	background-image: url(../images/slider-thumb5.jpg);
+	background-image: url(../images/main2.jpg);
 }
 .slider-item.style8 .slider-inner .slider-infor {
 	padding-top: 176px;
@@ -6738,7 +6739,7 @@ ul.list-products {
 	padding-right: 400px;
 }
 .slider-item.style9 .slider-inner {
-	background-image: url(../images/slider-thumb6.jpg);
+	background-image: url(../images/nww51.png);
 }
 .slider-item.style9 .slider-inner .slider-infor {
 	padding-top: 176px;
@@ -8557,8 +8558,8 @@ body.vertical-menu-open .vertical-menu-overlay {
 }
 /*banner home 02*/
 .item-banner.style4 .inner {
-	background-image: url(../images/banner-home-2.jpg);
-	background-size: cover;
+	background-image: url(../images/nww52.png );
+	background-size: contain;
 	background-position: 65% center;
 }
 .item-banner.style4 .banner-content {
@@ -8578,8 +8579,8 @@ body.vertical-menu-open .vertical-menu-overlay {
 	max-width: 195px;
 }
 .item-banner.style5 .inner {
-	background-image: url(../images/banner-home-3.jpg);
-	background-size: cover;
+	background-image: url(../images/12.png);
+	background-size: contain;
 	background-position: 65% center;
 }
 .item-banner.style5 .banner-content {
